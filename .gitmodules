@@ -1,0 +1,3 @@
+[submodule "Google-profanity-words"]
+	path = Google-profanity-words
+	url = ./hatespeech/Google-profanity-words

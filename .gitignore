@@ -1,0 +1,10 @@
+*.ipynb_checkpoints/
+results/
+*final.h5
+*pretrained.h5
+*embedding
+.idea/
+__pycache__/
+*.DS_Store
+data/*
+supervised/.ipynb_checkpoints/*
